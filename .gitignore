@@ -25,3 +25,6 @@ vignettes/*.pdf
 *.knit.md
 .Rproj.user
 packrat/lib*/
+
+#iPython/Jupyter
+.ipynb_checkpoints
